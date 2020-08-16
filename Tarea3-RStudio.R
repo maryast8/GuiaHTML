@@ -1,3 +1,9 @@
+#a)¿Se dieron cuenta de el suceso extraño respecto al tag “img”, analice 
+#en qué se diferencia de los tag ya vistos previamente? 
+#Lo que sucede con el tag "img" es que no necesita cerrarse. Pues existen otros tag
+#que no necesitan cierres como el usado en los textos <br> y la mayoría de los otros
+#necesita cierres.
+
 # Limpiado de vriables
 rm(list = ls())
 
