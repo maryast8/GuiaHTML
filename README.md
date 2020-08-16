@@ -6,7 +6,7 @@
 #que no necesitan cierres como el usado en los textos <br> y la mayoría de los otros
 #necesita cierres.
 
-# Limpiado de vriables
+# Limpiado de variables
 rm(list = ls())
 
 install.packages("rvest")
