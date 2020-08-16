@@ -3,7 +3,7 @@ rm(list = ls())
 
 install.packages("rvest")
 
-# cargar las librerias
+# Cargar las librerias
 library(xml2)
 library(rvest)
 
